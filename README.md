@@ -1,2 +1,2 @@
 # gitIntro
-This repo is part of an intro-to-git tutorial
+Welcome! This repo is part of an intro-to-git tutorial :-)
